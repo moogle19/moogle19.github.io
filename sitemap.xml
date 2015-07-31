@@ -3,15 +3,17 @@
   
   <url>
     <loc>https://moogle19.github.io/</loc>
+    <lastmod>2013-06-21T11:27:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://moogle19.github.io/about/</loc>
+    <loc>https://moogle19.github.io/post/nitro/</loc>
+    <lastmod>2013-06-21T11:27:27-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://moogle19.github.io/post/test/</loc>
+    <loc>https://moogle19.github.io/about/</loc>
   </url>
   
 </urlset>
