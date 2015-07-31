@@ -6,4 +6,12 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>https://moogle19.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://moogle19.github.io/post/test/</loc>
+  </url>
+  
 </urlset>
